@@ -1,0 +1,4 @@
+rule cxx
+  command = g++ -std=c++17 -O3 -fopenmp -ltbb $in -o $out
+
+build hw1: cxx hw1.cc
