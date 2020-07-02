@@ -43,8 +43,11 @@ Implement a parallel program to solve the sokoban game.
 
 ## References:
 [1] https://rosettacode.org/wiki/Sokoban#
+
 [2] https://baldur.iti.kit.edu/groupeffort/files/sokobanPortfolio.pdf
+
 [3] https://stackoverflow.com/questions/25490357/checking-for-existence-in-stdmap-count-vs-find
+
 [4] https://stackoverflow.com/questions/935467/parallelization-pthreads-or-openmp
 
 
